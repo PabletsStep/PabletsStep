@@ -15,4 +15,4 @@
 </div><br/>
 
 Apaixonado por tecnologia praticante de calistenia e amante de esportes. <br>
-https://github.com/PabletsStep/portfolio.git
+https://pabletsstep.github.io/portfolio/
