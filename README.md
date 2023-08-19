@@ -14,5 +14,5 @@
   <img align="center" alt ="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia praticante de calistenia e amante de esportes.
+Apaixonado por tecnologia praticante de calistenia e amante de esportes. <br>
 https://github.com/PabletsStep/portfolio.git
